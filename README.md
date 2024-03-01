@@ -8,4 +8,5 @@ Full Adder:
 ![FullAdder Gate](https://github.com/RoshniMukherjee/Project-2.1-/assets/88767197/79e0cd5d-f943-4298-86e6-aefe207b7750)
 ![FullAdder](https://github.com/RoshniMukherjee/Project-2.1-/assets/88767197/664d0c6c-6785-4f7c-a803-9c597c4f2ba5)
 
+~Roshni Mukherjee
 
